@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectVR", "ProjectVR.csproj", "{540F598C-EF1D-54DC-6877-8C7821B1457A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectVR.Editor", "ProjectVR.Editor.csproj", "{068304BF-094D-FAD6-A868-4C16B629F9EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540F598C-EF1D-54DC-6877-8C7821B1457A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540F598C-EF1D-54DC-6877-8C7821B1457A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540F598C-EF1D-54DC-6877-8C7821B1457A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540F598C-EF1D-54DC-6877-8C7821B1457A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068304BF-094D-FAD6-A868-4C16B629F9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068304BF-094D-FAD6-A868-4C16B629F9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068304BF-094D-FAD6-A868-4C16B629F9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068304BF-094D-FAD6-A868-4C16B629F9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
